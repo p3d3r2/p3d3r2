@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Peder, I am 35 years old and live in Bergen, Norway. 
-I am a healer, yoga and movement teacher.
+I am a healer, yoga and movement teacher with an interest in website design and development.
 <!--
 **p3d3r2/p3d3r2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
